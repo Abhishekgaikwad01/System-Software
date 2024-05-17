@@ -21,5 +21,3 @@ identifier [a-zA-Z][a-zA-Z0-9]*
 
 . {return yytext[0];}		
 %%
-
-
